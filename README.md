@@ -11,6 +11,20 @@ mvn package
 
 ## Docker Build
 
+> Dockerise the Java Application
+
 ```
-cd Elsavier/kubernetes-minikube/demo-backend-ev/
+cd Elsevier/kubernetes-minikube/demo-backend-ev/
+
+docker build --file=Dockerfile --tag=demo-backend:app --rm=true .
+
+```
+
+
+## Helm Install
+
+```
+cd Elsevier/Helm/java-app
+
+helm upgrade -i demo-backend .
 ```
