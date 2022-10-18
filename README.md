@@ -23,7 +23,7 @@ docker build --file=Dockerfile --tag=demo-backend:app --rm=true .
 ```
 
 
-## Helm Install
+## Helm chart Install
 
 ```
 cd Elsevier/Helm/java-app
