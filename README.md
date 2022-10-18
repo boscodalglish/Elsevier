@@ -1,5 +1,3 @@
-# Elsevier
-
 ## Maven Build
 
 > Import existing Maven Project in your IDE
