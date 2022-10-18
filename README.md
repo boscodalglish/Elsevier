@@ -1,7 +1,5 @@
 # Elsevier
 
-# Build Java Application
-
 ## Maven Build
 
 ```
