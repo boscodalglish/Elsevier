@@ -4,7 +4,9 @@
 
 ```
 Run Config commands:
+
 clean Install
+
 mvn package
 ```
 
